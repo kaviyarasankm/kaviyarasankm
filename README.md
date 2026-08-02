@@ -19,8 +19,9 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kaviyarasankm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:mohulnath005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="tel:+919360712225"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
+<a href="https://kaviyarasank-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
+<a href="mailto:kaviyarasanragava64@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="tel:+916380249098"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Chennai%2C%20India-1F2937?style=for-the-badge&logo=googlemaps&logoColor=06B6D4"/>&nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-10B981?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 
@@ -44,13 +45,22 @@
 ```yaml
 name:        Kaviyarasan K
 role:        Software Engineer • Gen AI Developer • Full Stack Developer
-experience:  1+ years
+experience:  3+ years  (1+ professional · 2+ freelance)
 location:    Chennai, Tamil Nadu, India
-focus:
-  - Building scalable full-stack applications
-  - Designing LLM-powered chatbots & prompt engineering pipelines
-  - AI-driven content automation systems
-  - High-performance WordPress sites with advanced SEO frameworks
+education:   M.Sc. Computer Science, University of Madras — First Class with Distinction
+
+core_stack:
+  - WordPress, PHP, MySQL, React.js, JavaScript
+  - Generative AI • LLM Chatbots • Prompt Engineering
+  - REST API & CRM Integration (Zoho, WooCommerce)
+  - Technical SEO • Core Web Vitals • n8n Automation
+
+impact:
+  - 30+ enterprise websites shipped end-to-end
+  - 200+ responsive pages built (Avada, Elementor, WooCommerce)
+  - 20+ third-party APIs & payment gateways integrated
+  - Led an 8-member dev team across 30+ client projects
+
 status:      Available for full-time roles & freelance projects
 ```
 
@@ -58,15 +68,15 @@ status:      Available for full-time roles & freelance projects
 </table>
 
 <p align="center">
-I'm a multidisciplinary developer bridging intelligent systems with real-world digital solutions — from architecting full-stack apps to shipping production-grade AI automation and SEO-driven web platforms.
+I engineer intelligent digital experiences — fusing production-grade full-stack development with Gen AI automation and technical SEO to ship business websites that don't just look good, they perform, rank, and convert.
 </p>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀_20+-Projects_Delivered-1F2937?style=for-the-badge&labelColor=6366F1&color=1F2937"/>
-<img src="https://img.shields.io/badge/🧠_7+-Tech_Domains-1F2937?style=for-the-badge&labelColor=7C3AED&color=1F2937"/>
+<img src="https://img.shields.io/badge/🌐_30+-Websites_Shipped-1F2937?style=for-the-badge&labelColor=6366F1&color=1F2937"/>
+<img src="https://img.shields.io/badge/🤖_5+-AI_Powered_Builds-1F2937?style=for-the-badge&labelColor=7C3AED&color=1F2937"/>
 <img src="https://img.shields.io/badge/🏆_15+-Certifications-1F2937?style=for-the-badge&labelColor=A855F7&color=1F2937"/>
-<img src="https://img.shields.io/badge/⏱️_1+-Years_Experience-1F2937?style=for-the-badge&labelColor=06B6D4&color=1F2937"/>
+<img src="https://img.shields.io/badge/⏱️_3+-Years_Experience-1F2937?style=for-the-badge&labelColor=06B6D4&color=1F2937"/>
 
 </div>
 
@@ -79,7 +89,7 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 🔭 Currently Building:  AI-powered automation tools & LLM-driven web apps
 🌱 Currently Learning:  Advanced RAG architectures & AI Agent frameworks
 👯 Looking to Collab:   Full Stack + Gen AI projects
-💬 Ask Me About:        React, Node.js, LLMs, Prompt Engineering, SEO
+💬 Ask Me About:        React, WordPress, LLMs, Prompt Engineering, Technical SEO
 ⚡ Fun Fact:            I automate things so I can be productively lazy 😄
 ```
 
@@ -96,13 +106,13 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 
 <sub><b>LANGUAGES & FRONTEND</b></sub>
 <br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nextjs&perline=8" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,nextjs&perline=8" />
 
 <br><br>
 
 <sub><b>BACKEND & DATABASE</b></sub>
 <br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postgres&perline=8" />
 
 <br><br>
 
@@ -111,12 +121,13 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=8" />
 <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 <br><br>
 
 <sub><b>TOOLS, CLOUD & CMS</b></sub>
 <br><br>
-<img src="https://skillicons.dev/icons?i=git,github,aws,docker,figma,vscode,postman,wordpress,php&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,docker,figma,vscode,postman,wordpress&perline=8" />
 
 <br><br>
 
@@ -125,6 +136,7 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/>
 <img src="https://img.shields.io/badge/Schema.org-0B58A3?style=for-the-badge&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </div>
 
@@ -135,19 +147,19 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 <table>
 <tr><td width="500">
 
-**React / Frontend Engineering**
-![](https://progress-bar.dev/90/?width=400&color=6366F1)
+**WordPress / PHP / MySQL**
+![](https://progress-bar.dev/92/?width=400&color=6366F1)
 
-**Node.js / Backend Systems**
+**React.js / Frontend Engineering**
 ![](https://progress-bar.dev/88/?width=400&color=7C3AED)
 
 **Gen AI / LLM & Prompt Engineering**
-![](https://progress-bar.dev/92/?width=400&color=A855F7)
+![](https://progress-bar.dev/90/?width=400&color=A855F7)
 
-**WordPress & SEO Strategy**
-![](https://progress-bar.dev/85/?width=400&color=06B6D4)
+**Technical SEO & Performance**
+![](https://progress-bar.dev/89/?width=400&color=06B6D4)
 
-**Automation & Workflow Systems**
+**Automation (n8n) & CRM Integration**
 ![](https://progress-bar.dev/87/?width=400&color=10B981)
 
 </td></tr>
@@ -165,44 +177,44 @@ I'm a multidisciplinary developer bridging intelligent systems with real-world d
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Workflow Automation SaaS
-Multi-tenant visual workflow builder with 40+ integrations and real-time execution monitoring.
+### 🏢 NRIQ LLP Services — <sub>Team Lead</sub>
+Directed a 100+ page WordPress platform with a custom membership portal, Zoho CRM integration, WooCommerce store, and an AI chatbot for lead engagement.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Zoho](https://img.shields.io/badge/-Zoho%20CRM-C8202F?style=flat-square&logo=zoho&logoColor=white) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![SEO](https://img.shields.io/badge/-Technical%20SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
-📈 **250+** active workflows • **99.7%** uptime
+📈 **100+** pages • **60+** SEO-optimized blogs • On-Page & Off-Page SEO
 
 </td>
 <td width="50%" valign="top">
 
-### ✍️ AI Writing Co-Pilot
-GPT-4 powered long-form content editor with real-time SEO scoring and tone analysis.
+### 🎯 Zensys
+Delivered 8+ responsive web pages and 3 high-converting landing pages, with full technical SEO and an AI chatbot integration to boost lead generation.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![AI](https://img.shields.io/badge/-AI%20Chatbot-412991?style=flat-square&logo=openai&logoColor=white) ![SEO](https://img.shields.io/badge/-Technical%20SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
-📈 **120+** bloggers • **3hrs → 45min** article time
+📈 **8+** responsive pages • **3** landing pages • Improved lead gen
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 AI Kanban Project Manager
-Task management tool with AI-powered task breakdown and live team collaboration.
+### 🌐 Shine Nexa Technology — <sub>Team Lead</sub>
+Delivered corporate websites, AI-powered service pages, and business portals with a focus on technical SEO, responsive UI, and performance optimization.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![AI](https://img.shields.io/badge/-AI%20Powered-412991?style=flat-square&logo=openai&logoColor=white) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
-📈 **3 SME clients** • **40%** faster planning
+📈 **30+** enterprise sites • **99.9%** uptime • Core Web Vitals optimized
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 E-Learning Platform
-Full-stack course platform with adaptive video delivery and auto-generated certificates.
+### 🎓 ShineEduX — <sub>Team Lead</sub>
+Designed responsive course interfaces for an e-learning brand, executing full technical, on-page, and off-page SEO to improve discoverability and UX.
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![SEO](https://img.shields.io/badge/-Technical%20SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
 
-📈 **1,200+** enrollments • **4.9★** avg rating
+📈 Responsive course UI • On-Page & Off-Page SEO • Faster load times
 
 </td>
 </tr>
@@ -210,7 +222,7 @@ Full-stack course platform with adaptive video delivery and auto-generated certi
 
 <div align="center">
 
-📌 *More projects & live demos on my [Portfolio](#) →*
+📌 *More projects & live demos on my [Portfolio](https://kaviyarasank-portfolio.netlify.app/) →*
 
 </div>
 
@@ -269,9 +281,9 @@ Full-stack course platform with adaptive video delivery and auto-generated certi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaviyarasankm/)
-[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohulnath005@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919360712225)
+[![Portfolio](https://img.shields.io/badge/-View%20Portfolio-7C3AED?style=for-the-badge&logo=firefox&logoColor=white)](https://kaviyarasank-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaviyarasanragava64@gmail.com)
+[![Call](https://img.shields.io/badge/-Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916380249098)
 
 </div>
 
