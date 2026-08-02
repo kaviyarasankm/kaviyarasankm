@@ -39,44 +39,89 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<table align="center" width="100%">
-<tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center">
 
-```yaml
-name:        Kaviyarasan K
-role:        Software Engineer • Gen AI Developer • Full Stack Developer
-experience:  3+ years  (1+ professional · 2+ freelance)
-location:    Chennai, Tamil Nadu, India
-education:   M.Sc. Computer Science, University of Madras — First Class with Distinction
+> ### 💡 "I don't just write code — I engineer intelligent solutions that solve real problems."
+>
+> I fuse **production-grade full-stack development** with **Gen AI automation** and **technical SEO** to ship business websites that don't just look good — they perform, rank, and convert.
 
-core_stack:
-  - WordPress, PHP, MySQL, React.js, JavaScript
-  - Generative AI • LLM Chatbots • Prompt Engineering
-  - REST API & CRM Integration (Zoho, WooCommerce)
-  - Technical SEO • Core Web Vitals • n8n Automation
-
-impact:
-  - 30+ enterprise websites shipped end-to-end
-  - 200+ responsive pages built (Avada, Elementor, WooCommerce)
-  - 20+ third-party APIs & payment gateways integrated
-  - Led an 8-member dev team across 30+ client projects
-
-status:      Available for full-time roles & freelance projects
-```
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-<p align="center">
-I engineer intelligent digital experiences — fusing production-grade full-stack development with Gen AI automation and technical SEO to ship business websites that don't just look good, they perform, rank, and convert.
-</p>
+<br>
+
+<table align="center" width="92%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">👤 Profile</h3>
+
+<table width="100%">
+<tr><td>🧑‍💻</td><td><b>Name</b></td><td>Kaviyarasan K</td></tr>
+<tr><td>🎯</td><td><b>Role</b></td><td>Software Engineer • Gen AI Dev • Full Stack Dev</td></tr>
+<tr><td>⏱️</td><td><b>Experience</b></td><td>3+ years (1+ pro · 2+ freelance)</td></tr>
+<tr><td>📍</td><td><b>Location</b></td><td>Chennai, Tamil Nadu, India</td></tr>
+<tr><td>🎓</td><td><b>Education</b></td><td>M.Sc. CS, University of Madras — Distinction</td></tr>
+<tr><td>✅</td><td><b>Status</b></td><td>Open to full-time roles & freelance</td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Core Focus</h3>
+
+<table width="100%">
+<tr><td>🌐</td><td>WordPress, PHP, MySQL, React.js, JavaScript</td></tr>
+<tr><td>🤖</td><td>Generative AI • LLM Chatbots • Prompt Engineering</td></tr>
+<tr><td>🔗</td><td>REST API & CRM Integration (Zoho, WooCommerce)</td></tr>
+<tr><td>📈</td><td>Technical SEO • Core Web Vitals</td></tr>
+<tr><td>⚙️</td><td>Workflow Automation (n8n)</td></tr>
+<tr><td>👥</td><td>Team Leadership • Client Delivery</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">📊 Impact by the Numbers</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🌐_30+-Websites_Shipped-1F2937?style=for-the-badge&labelColor=6366F1&color=1F2937"/>
-<img src="https://img.shields.io/badge/🤖_5+-AI_Powered_Builds-1F2937?style=for-the-badge&labelColor=7C3AED&color=1F2937"/>
-<img src="https://img.shields.io/badge/🏆_15+-Certifications-1F2937?style=for-the-badge&labelColor=A855F7&color=1F2937"/>
-<img src="https://img.shields.io/badge/⏱️_3+-Years_Experience-1F2937?style=for-the-badge&labelColor=06B6D4&color=1F2937"/>
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/30+-1F2937?style=for-the-badge&labelColor=6366F1&color=0D1117"/><br><sub><b>🌐 Websites Shipped</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/200+-1F2937?style=for-the-badge&labelColor=7C3AED&color=0D1117"/><br><sub><b>📄 Pages Built</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/5+-1F2937?style=for-the-badge&labelColor=A855F7&color=0D1117"/><br><sub><b>🤖 AI Solutions</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/20+-1F2937?style=for-the-badge&labelColor=06B6D4&color=0D1117"/><br><sub><b>🔗 APIs Integrated</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/99.9%25-1F2937?style=for-the-badge&labelColor=10B981&color=0D1117"/><br><sub><b>⚡ Uptime</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/8-1F2937?style=for-the-badge&labelColor=EF4444&color=0D1117"/><br><sub><b>👥 Team Led</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/15+-1F2937?style=for-the-badge&labelColor=F59E0B&color=0D1117"/><br><sub><b>🏆 Certifications</b></sub>
+</td>
+<td align="center" width="150">
+<img src="https://img.shields.io/badge/3+-1F2937?style=for-the-badge&labelColor=3B82F6&color=0D1117"/><br><sub><b>⏱️ Years Exp</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
